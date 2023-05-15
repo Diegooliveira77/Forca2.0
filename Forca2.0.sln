@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forca2.0WindowsFormsApp1", "Forca2.0WindowsFormsApp1\Forca2.0WindowsFormsApp1.csproj", "{F00938AE-F334-4AC3-ADF2-FC65B457CB67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00938AE-F334-4AC3-ADF2-FC65B457CB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00938AE-F334-4AC3-ADF2-FC65B457CB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00938AE-F334-4AC3-ADF2-FC65B457CB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00938AE-F334-4AC3-ADF2-FC65B457CB67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A628F605-DED1-4A7A-A710-F51AC08CD5A7}
+	EndGlobalSection
+EndGlobal
